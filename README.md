@@ -5,6 +5,7 @@ This example outputs data from the BME280 sensor.
 ## How to use  
 
 In this example, we will be using the pi pico w.  
+Here is a nice website to see the pinout of the pi pico: [pico.pinout.xyz](https://pico.pinout.xyz/)
 
 1. Connect the pins of the sensor in this order:  
 
